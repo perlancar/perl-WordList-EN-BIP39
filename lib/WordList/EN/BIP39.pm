@@ -13,9 +13,11 @@ our @ISA = qw(WordList);
 
 =head1 SEE ALSO
 
+Source: L<https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt>
+
 About BIP 39: L<https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki>
 
-Source: L<https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt>
+About BIPs (Bitcoin Improvement Proposals): L<https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals>
 
 =cut
 
